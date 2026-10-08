@@ -1,0 +1,18 @@
+clinic_id,clinic_name,city,region,specialty,num_doctors
+1,Noor Skin Clinic,Riyadh,Central,Dermatology,6
+2,Al Rawabi Dental Center,Riyadh,Central,Dental,9
+3,Lumiere Aesthetic Clinic,Riyadh,Central,Aesthetics & Laser,7
+4,Little Palm Children's Clinic,Riyadh,Central,Pediatrics,8
+5,Red Sea Derma Clinic,Jeddah,Western,Dermatology,5
+6,Corniche Smile Center,Jeddah,Western,Dental,8
+7,Basira Eye Center,Jeddah,Western,Ophthalmology,6
+8,Gulf Pearl Dental,Dammam,Eastern,Dental,7
+9,Dana Aesthetic Clinic,Khobar,Eastern,Aesthetics & Laser,5
+10,Al Haram Ortho & Physio,Mecca,Western,Orthopedics,6
+11,Taiba Family Clinic,Medina,Western,Pediatrics,5
+12,Rose Valley Skin Clinic,Taif,Western,Dermatology,4
+13,Asir Smile Dental,Abha,Southern,Dental,5
+14,Qassim Women's Care,Buraydah,Central,OB/GYN,6
+15,Fit Life Obesity Clinic,Tabuk,Northern,Weight Management,4
+16,Hail ENT Center,Hail,Northern,ENT,4
+17,Jazan Vision Eye Clinic,Jazan,Southern,Ophthalmology,4
