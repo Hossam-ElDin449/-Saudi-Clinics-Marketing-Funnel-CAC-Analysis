@@ -8,7 +8,10 @@ An end-to-end analytics project that links **digital ad spend** to **clinic reve
 
 ## Dashboard
 <!-- Add a screenshot: dashboard/dashboard.png -->
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](<img width="3837" height="2285" alt="Screenshot 2026-10-05 060141" src="https://github.com/user-attachments/assets/a98cca73-98bd-4f88-bbff-b6a9249475cc" />
+)
+
+https://ai.studio/apps/c50b73ca-e9d4-485f-82a8-c610eb4cf9ca
 
 ## The Funnel
 `Impressions → Clicks → Leads → Bookings → Attended → Paid patients → Revenue`
