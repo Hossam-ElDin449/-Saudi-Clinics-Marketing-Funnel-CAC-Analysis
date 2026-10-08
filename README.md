@@ -79,4 +79,4 @@ python scripts/generate_dataset.py
 The random seed is fixed, so the output is identical on every run.
 
 ## Author
-[Your Name] · [LinkedIn URL] · [Email]
+Dr Hossam ElDin 
